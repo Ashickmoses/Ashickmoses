@@ -61,7 +61,6 @@ C • C++ • Java • Cyber Security
 </a>
 
 </p>
----
 
 ## 🎯 Currently Learning
 
