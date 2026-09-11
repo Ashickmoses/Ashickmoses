@@ -40,28 +40,6 @@ C • C++ • Java • Cyber Security
 
 ---
 
-## 💻 Problem Solving
-
-<p align="left">
-
-<a href="YOUR_LEETCODE_LINK" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-</a>
-
-<a href="YOUR_CODECHEF_LINK" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="YOUR_CODEFORCES_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="YOUR_ATCODER_LINK" target="_blank">
-<img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white"/>
-</a>
-
-</p>
-
 ## 🎯 Currently Learning
 
 - Data Structures & Algorithms
